@@ -1,2 +1,3 @@
 # DescriptiveStatisticsSnippets
-Snippets of Python code to learn and practice descriptive statistics.
+Snippets of Python to learn and practice descriptive statistics.
+
