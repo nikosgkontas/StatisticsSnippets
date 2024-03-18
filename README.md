@@ -7,7 +7,7 @@ Contents:
 
 #A short introduction on how to use the most common measures in statistics.
 
-2_BarCharts.ipnb
+2_BarCharts.ipynb
 
 #An easy way understand the use of bar charts for categorical data.
 
